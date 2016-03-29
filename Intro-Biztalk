@@ -1,0 +1,8 @@
+What is biztalk?
+
+Biztalk is an integration platform.
+We can also term it has a message transferer.
+It is a message conversion platform.
+say message x needs to be converted to messagey , then Biztalk could be used to do so.
+It's mainly used when large scale integration is required.
+Biztalk guarentees exception handling, proper tracking , disaster recovers and security.
